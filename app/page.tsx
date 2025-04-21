@@ -19,7 +19,7 @@ export default function PortfolioPage() {
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             <AnimatedText
-              text="A collection of software projects I've built, from web applications to mobile apps and open-source contributions."
+              text="A collection of software projects I've built using AI vibe coding and personal coding experience."
               className="inline-block"
             />
           </p>

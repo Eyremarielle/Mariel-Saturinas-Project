@@ -10,7 +10,7 @@ const PROJECTS = [
     title: "House Renovation Project",
     description:
       "We turn your vision into reality with professional home renovation services.",
-    image: "/placeholder.svg?height=600&width=800",
+    image: "https://scontent.fmel16-1.fna.fbcdn.net/v/t39.30808-6/486768484_1232680955525269_5905800411005272405_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=m_7q_ON8nW8Q7kNvwFaYHv0&_nc_oc=AdkS3tLIh9-8y96s15PzTolbvg08aPFKTFLaZjn-JGLrJkoNBwh8D-j-HLcUSNdqAyg&_nc_zt=23&_nc_ht=scontent.fmel16-1.fna&_nc_gid=h_cYaItkgpu8Rm3UG6HrEQ&oh=00_AfGtmGRtHT6XgILfe8QeGqUP60_mtlQk6pek1CV4PJ6X4w&oe=680BD91F",
     tags: ["HTML5", "CSS3", "JavaScript", "Font Awesome"],
     demoUrl: "https://eyremarielle.github.io/house-Renovation/",
     repoUrl: "https://github.com/Eyremarielle/house-Renovation",
@@ -21,7 +21,7 @@ const PROJECTS = [
     id: 2,
     title: "Task Management App",
     description: "A mobile application for managing tasks, with reminders, categories, and progress tracking.",
-    image: "/placeholder.svg?height=600&width=800",
+    image: "https://scontent.fmel16-1.fna.fbcdn.net/v/t39.30808-6/486768484_1232680955525269_5905800411005272405_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=m_7q_ON8nW8Q7kNvwFaYHv0&_nc_oc=AdkS3tLIh9-8y96s15PzTolbvg08aPFKTFLaZjn-JGLrJkoNBwh8D-j-HLcUSNdqAyg&_nc_zt=23&_nc_ht=scontent.fmel16-1.fna&_nc_gid=h_cYaItkgpu8Rm3UG6HrEQ&oh=00_AfGtmGRtHT6XgILfe8QeGqUP60_mtlQk6pek1CV4PJ6X4w&oe=680BD91F",
     tags: ["React Native", "Firebase", "Redux"],
     demoUrl: "https://example.com",
     repoUrl: "https://github.com/yourusername/task-app",
